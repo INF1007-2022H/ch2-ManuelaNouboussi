@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def majuscule(mot):
-    # TODO completer la fonction ici
+    chr(ord(c)-32)
     return mot
 
 
